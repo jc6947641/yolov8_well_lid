@@ -1,0 +1,7 @@
+train: /root/autodl-tmp/1-yolov8/yolov8/ultralytics/Japan-7/train/images
+val: /root/autodl-tmp/1-yolov8/yolov8/ultralytics/Japan-7/val/images
+test: /root/autodl-tmp/1-yolov8/yolov8/ultralytics/Japan-7/test/images
+
+nc: 7
+names: ['Alligator Cracks', 'Damaged crosswalk', 'Damaged paint', 'Longitudinal Cracks', 'Manhole cover', 'Potholes', 'Transverse Cracks']
+
